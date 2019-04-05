@@ -1,2 +1,2 @@
-# heps
-Humanity Enhancement Proposals
+# Humanity Enhancement Proposals
+
